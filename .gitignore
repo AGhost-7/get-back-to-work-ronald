@@ -1,4 +1,4 @@
 dist/
 get_back_to_work_ronald.egg-info/
 __pycache__
-
+*.pyc
